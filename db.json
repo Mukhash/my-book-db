@@ -1,5 +1,5 @@
 {
-  "promos": 
+  "promos": [
     {
       "id": 1,
       "title": "Знамение весны",
@@ -29,7 +29,7 @@
       "id": 1,
       "title": "Дома на карантине",
       "imgUrl": "https://i.picsum.photos/id/645/400/300.jpg"
-    },
+    }],
   "profile": {
     "name": "typicode"
   }
