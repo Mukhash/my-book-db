@@ -1,35 +1,16 @@
 {
-  "promos": [
+  "posts": [
     {
       "id": 1,
-      "title": "Знамение весны",
-      "imgUrl": "https://i.picsum.photos/id/641/400/300.jpg"
+      "title": "hello"
+      "img": "https://i.picsum.photos/id/641/400/300.jpg"
     },
     {
       "id": 1,
-      "title": "Только в электронном формате",
-      "imgUrl": "https://i.picsum.photos/id/642/400/300.jpg"
-    },
-    {
-      "id": 1,
-      "title": "Доказательная медицина",
-      "imgUrl": "https://i.picsum.photos/id/642/400/300.jpg"
-    },
-    {
-      "id": 1,
-      "title": "По ту сторону обложки",
-      "imgUrl": "https://i.picsum.photos/id/643/400/300.jpg"
-    },
-    {
-      "id": 1,
-      "title": "Рецепты",
-      "imgUrl": "https://i.picsum.photos/id/644/400/300.jpg"
-    },
-    {
-      "id": 1,
-      "title": "Дома на карантине",
-      "imgUrl": "https://i.picsum.photos/id/645/400/300.jpg"
-    }],
+      "title": "hello"
+      "img": "https://i.picsum.photos/id/641/400/300.jpg"
+    } 
+  ],
   "profile": {
     "name": "typicode"
   }
