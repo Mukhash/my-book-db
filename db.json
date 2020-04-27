@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
       "img": "https://i.picsum.photos/id/641/400/300.jpg"
     },
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
       "img": "https://i.picsum.photos/id/641/400/300.jpg"
     } 
   ],
