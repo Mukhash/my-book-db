@@ -1,0 +1,12 @@
+{
+  "promos": [
+    {
+      "id": 1,
+      "title": "Test promo group",
+      "imgUrl": "https://i.picsum.photos/id/641/400/300.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
