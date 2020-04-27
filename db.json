@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "promos": [
     {
       "id": 1,
       "title": "hello",
@@ -8,8 +8,23 @@
     {
       "id": 1,
       "title": "hello",
-      "img": "https://i.picsum.photos/id/641/400/300.jpg"
-    } 
+      "img": "https://i.picsum.photos/id/642/400/300.jpg"
+    },
+    {
+      "id": 1,
+      "title": "hello",
+      "img": "https://i.picsum.photos/id/643/400/300.jpg"
+    },
+    {
+      "id": 1,
+      "title": "hello",
+      "img": "https://i.picsum.photos/id/644/400/300.jpg"
+    },
+    {
+      "id": 1,
+      "title": "hello",
+      "img": "https://i.picsum.photos/id/645/400/300.jpg"
+    }
   ],
   "profile": {
     "name": "typicode"
