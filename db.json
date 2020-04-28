@@ -1,4 +1,4 @@
-{[
+{
   "promos": [
     {
       "id": 0,
@@ -26,7 +26,7 @@
       "img": "https://i.picsum.photos/id/645/400/300.jpg"
     }
   ],
- ["authors": [
+ "authors": [
     {
       "id": 0,
       "title": "hello",
