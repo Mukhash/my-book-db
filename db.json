@@ -111,7 +111,7 @@
   {
     "id": 6,
     "author": "Николай Лесков",
-    "author_photo": "covers/leskov_photo",
+    "author_photo": "https://obrazovaka.ru/wp-content/uploads/2014/10/Leskov-Nikolay.jpg",
     "author_description": "Николай Семёнович Лесков (1831 — 1895) – прозаик, самый народный писатель России, драматург.",
     "same_authors": "785",
     "books": [
@@ -124,7 +124,7 @@
   {
     "id": 7,
     "author": "Александр Пушкин",
-    "author_photo": "covers/pushkin_photo",
+    "author_photo": "https://cdn25.img.ria.ru/images/149619/51/1496195194_0:0:2644:1487_1036x0_80_0_0_4f661007a7201427b906a0cbda5b0740.jpg",
     "author_description": "Великий русский поэт и писатель, основоположник современного литературного русского языка, с именем которого связывают Золотой век отечественной литературы и поэзии.",
     "same_authors": "685",
     "books": [
@@ -137,7 +137,7 @@
   {
     "id": 8,
     "author": "Иван Тургенев",
-    "author_photo": "covers/pushkin_photo",
+    "author_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS11cxVrenEooFQ9JlZjAa3n7wc-TAMwmtUpN_pVNWXwdNgp1rj&usqp=CAU",
     "author_description": "Великий русский поэт и писатель, основоположник современного литературного русского языка, с именем которого связывают Золотой век отечественной литературы и поэзии.",
     "same_authors": "675",
     "books": [
@@ -150,7 +150,7 @@
   {
     "id": 9,
     "author": "Евгений Замятин",
-    "author_photo": "covers/pushkin_photo",
+    "author_photo": "https://filolen.ru/wp-content/uploads/2019/03/Kratkaya_biografiya_zamyatin_1.jpg",
     "author_description": "Евгений Иванович Замятин – русский писатель, литературный критик и публицист.",
     "same_authors": "678",
     "books": [
