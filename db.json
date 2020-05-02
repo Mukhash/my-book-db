@@ -3,28 +3,28 @@
     {
       "id": 0,
       "name": "Что почитать во время карантина",
-      "image": "https://simg.sputnik.ru/?key=8832b2564b36b1096d4e1d868c05141819744f31"
+      "image": "https://simg.sputnik.ru/?key=8832b2564b36b1096d4e1d868c05141819744f31",
       "promo_type": 2,
       "books": "0 1 2 3 4"
     },
     {
       "id": 1,
       "name": "Русская классика",
-      "image": "https://flytothesky.ru/wp-content/uploads/2019/04/423.png"
+      "image": "https://flytothesky.ru/wp-content/uploads/2019/04/423.png",
       "promo_type": 1,
       "books": "5 6 7 8"
     },
     {
       "id": 2,
       "name": "Вечная классика",
-      "image": "https://kluch.media/upload/iblock/314/organ.jpg"
+      "image": "https://kluch.media/upload/iblock/314/organ.jpg",
       "promo_type": 2,
       "books": "9 10 11 12 13"
     },
     {
       "id": 3,
       "name": "Глубина русской души",
-      "image": "https://cdn2.img.inosmi.ru/images/23510/58/235105847.jpg"
+      "image": "https://cdn2.img.inosmi.ru/images/23510/58/235105847.jpg",
       "promo_type": 2,
       "books": "14 15 16 17 18"
     }
