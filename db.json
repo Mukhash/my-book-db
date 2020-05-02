@@ -43,7 +43,7 @@
   {
   "id": 1,
   "author": "Сергей Есенин",
-  "author_photo": "covers/esenin_photo",
+  "author_photo": "https://b1.culture.ru/c/278978.150x225.jpg",
   "author_description": "Сергей Александрович Есенин является великим русским поэтом-лириком.",
   "same_authors": "023",
   "books": [
@@ -57,7 +57,7 @@
   {
     "id": 2,
     "author": "Афанасий Фет",
-    "author_photo": "covers/fet_photo",
+    "author_photo": "https://i0.wp.com/interesnyefakty.org/wp-content/uploads/Afanasiy-Fet-2.jpg",
     "author_description": "Афанасий Афанасьевич Фет родился в 1820 г. в Орловской губернии.",
     "same_authors": "013",
     "books": [
@@ -71,7 +71,7 @@
   {
     "id": 3,
     "author": "Всеволод Гаршин",
-    "author_photo": "covers/garshin_photo",
+    "author_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUn7lOhGoqf8LASJOaX5KIg1TkeXJlk6-ICw0BeUueKST_1wxY&usqp=CAU",
     "author_description": "Всеволод Гаршин происходил из помещичьей семьи; родился в 1855 г. в Донецком уезде.",
     "same_authors": "456",
     "books": [
@@ -85,7 +85,7 @@
   {
     "id": 4,
     "author": "Александр Грин",
-    "author_photo": "covers/grin_photo",
+    "author_photo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/AlexanderGrin.jpg",
     "author_description": "Грин родился 23 августа 1880 года в небольшом городке в Вятской губернии.",
     "same_authors": "356",
     "books": [
@@ -98,7 +98,7 @@
   {
     "id": 5,
     "author": "Александр Куприн",
-    "author_photo": "covers/kuprin_photo",
+    "author_photo": "https://4.bp.blogspot.com/-7lqMhmf3gb8/Ve0yc_44JpI/AAAAAAAAAVo/hODdIirhtL8/s1600/52343.jpg",
     "author_description": "Александр Куприн – выдающийся русский писатель-реалист конца XIX века. Писатель родился 7 сентября 1870 года в уездном городе Наровчат Пензенской области, в семье потомственного дворянина.",
     "same_authors": "346",
     "books": [
