@@ -32,7 +32,7 @@
     "author": "Антон Чехов",
     "author_photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_13295.jpg",
     "author_description": "Антон Павлович Чехов - русский писатель, общепризнанный классик мировой литературы. По профессии врач.",
-    "same_authors": "12",
+    "same_authors": "123",
     "books": [
       {
         "id": 0,
@@ -45,12 +45,7 @@
   "author": "Сергей Есенин",
   "author_photo": "covers/esenin_photo",
   "author_description": "Сергей Александрович Есенин является великим русским поэтом-лириком.",
-  "same_authors": [
-    {
-      "id": 0,
-      "id": 2
-    }
-  ],
+  "same_authors": "023",
   "books": [
     {
       "id": 2,
@@ -64,12 +59,7 @@
     "author": "Афанасий Фет",
     "author_photo": "covers/fet_photo",
     "author_description": "Афанасий Афанасьевич Фет родился в 1820 г. в Орловской губернии.",
-    "same_authors": [
-      {
-        "id": 0,
-        "id": 1
-      }
-    ],
+    "same_authors": "013",
     "books": [
       {
         "id": 4,
@@ -83,12 +73,7 @@
     "author": "Всеволод Гаршин",
     "author_photo": "covers/garshin_photo",
     "author_description": "Всеволод Гаршин происходил из помещичьей семьи; родился в 1855 г. в Донецком уезде.",
-    "same_authors": [
-      {
-        "id": 4,
-        "id": 5
-      }
-    ],
+    "same_authors": "456",
     "books": [
       {
         "id": 6,
@@ -102,12 +87,7 @@
     "author": "Александр Грин",
     "author_photo": "covers/grin_photo",
     "author_description": "Грин родился 23 августа 1880 года в небольшом городке в Вятской губернии.",
-    "same_authors": [
-      {
-        "id": 3,
-        "id": 5
-      }
-    ],
+    "same_authors": "356",
     "books": [
       {
         "id": 8,
@@ -120,12 +100,7 @@
     "author": "Александр Куприн",
     "author_photo": "covers/kuprin_photo",
     "author_description": "Александр Куприн – выдающийся русский писатель-реалист конца XIX века. Писатель родился 7 сентября 1870 года в уездном городе Наровчат Пензенской области, в семье потомственного дворянина.",
-    "same_authors": [
-      {
-        "id": 3,
-        "id": 4
-      }
-    ],
+    "same_authors": "346",
     "books": [
       {
         "id": 10,
@@ -138,12 +113,7 @@
     "author": "Николай Лесков",
     "author_photo": "covers/leskov_photo",
     "author_description": "Николай Семёнович Лесков (1831 — 1895) – прозаик, самый народный писатель России, драматург.",
-    "same_authors": [
-      {
-        "id": 7,
-        "id": 8
-      }
-    ],
+    "same_authors": "785",
     "books": [
       {
         "id": 12,
@@ -156,12 +126,7 @@
     "author": "Александр Пушкин",
     "author_photo": "covers/pushkin_photo",
     "author_description": "Великий русский поэт и писатель, основоположник современного литературного русского языка, с именем которого связывают Золотой век отечественной литературы и поэзии.",
-    "same_authors": [
-      {
-        "id": 6,
-        "id": 8
-      }
-    ],
+    "same_authors": "685",
     "books": [
       {
         "id": 14,
@@ -174,12 +139,7 @@
     "author": "Иван Тургенев",
     "author_photo": "covers/pushkin_photo",
     "author_description": "Великий русский поэт и писатель, основоположник современного литературного русского языка, с именем которого связывают Золотой век отечественной литературы и поэзии.",
-    "same_authors": [
-      {
-        "id": 6,
-        "id": 7
-      }
-    ],
+    "same_authors": "675",
     "books": [
       {
         "id": 16,
@@ -192,12 +152,7 @@
     "author": "Евгений Замятин",
     "author_photo": "covers/pushkin_photo",
     "author_description": "Евгений Иванович Замятин – русский писатель, литературный критик и публицист.",
-    "same_authors": [
-      {
-        "id": 6,
-        "id": 7
-      }
-    ],
+    "same_authors": "678",
     "books": [
       {
         "id": 18,
