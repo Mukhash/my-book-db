@@ -32,12 +32,7 @@
     "author": "Антон Чехов",
     "author_photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_13295.jpg",
     "author_description": "Антон Павлович Чехов - русский писатель, общепризнанный классик мировой литературы. По профессии врач.",
-    "same_authors": [
-      {
-        "id": 1,
-        "id": 2
-      }
-    ],
+    "same_authors": "12",
     "books": [
       {
         "id": 0,
