@@ -29,19 +29,7 @@
          "kingsguard":true
       },
       {
-         "characterName":"Bronn",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MzI5MjY1OV5BMl5BanBnXkFtZTcwODM1ODg4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MzI5MjY1OV5BMl5BanBnXkFtZTcwODM1ODg4OQ@@._V1_.jpg",
-         "characterLink":"/character/ch0241345/",
-         "actorName":"Jerome Flynn",
-         "actorLink":"/name/nm0283492/"
-      },
-      {
          "characterName":"Cersei Lannister",
-         "houseName":[
-            "Lannister",
-            "Baratheon"
-         ],
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNTAxNjExMl5BMl5BanBnXkFtZTcwMDEwNzI4OQ@@._V1._CR954,56,605,670._SX100_SY140_.jpg",
          "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNTAxNjExMl5BMl5BanBnXkFtZTcwMDEwNzI4OQ@@._V1._CR954,56,605,670_.jpg",
          "characterLink":"/character/ch0159526/",
@@ -85,26 +73,12 @@
          "actorLink":"/name/nm2406775/"
       },
       {
-         "characterName":"Gregor Clegane",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTg2MTM2MF5BMl5BanBnXkFtZTcwNDk1NzE5OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTg2MTM2MF5BMl5BanBnXkFtZTcwNDk1NzE5OQ@@._V1_.jpg",
-         "characterLink":"/character/ch0245401/"
-      },
-      {
          "characterName":"Grey Worm",
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjk3ZDJlNTQtZDBiMC00ODVhLTlmYmYtYzkxMDA0N2QxNDY0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
          "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjk3ZDJlNTQtZDBiMC00ODVhLTlmYmYtYzkxMDA0N2QxNDY0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
          "characterLink":"/character/ch0335038/",
          "actorName":"Jacob Anderson",
          "actorLink":"/name/nm2760664/"
-      },
-      {
-         "characterName":"Hodor",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMzU4MDEyNF5BMl5BanBnXkFtZTcwNDM2ODg4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMzU4MDEyNF5BMl5BanBnXkFtZTcwNDM2ODg4OQ@@._V1_.jpg",
-         "characterLink":"/character/ch0238584/",
-         "actorName":"Kristian Nairn",
-         "actorLink":"/name/nm3964231/"
       },
       {
          "characterName":"Jaime Lannister",
@@ -118,20 +92,7 @@
          "kingsguard":true
       },
       {
-         "characterName":"Joffrey Baratheon",
-         "houseName":"Baratheon",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDg5MTAwMl5BMl5BanBnXkFtZTcwOTIwODg4OQ@@._V1_SY1000_CR0,0,818,1000_AL_.jpg",
-         "characterLink":"/character/ch0156278/",
-         "actorName":"Jack Gleeson",
-         "actorLink":"/name/nm0322416/"
-      },
-      {
          "characterName":"Jon Snow",
-         "houseName":[
-            "Stark",
-            "Targaryen"
-         ],
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwMjUxMDk2OV5BMl5BanBnXkFtZTcwMzg3MTg4OQ@@._V1._SX100_SY140_.jpg",
          "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwMjUxMDk2OV5BMl5BanBnXkFtZTcwMzg3MTg4OQ@@._V1_.jpg",
          "characterLink":"/character/ch0155777/",
@@ -146,14 +107,6 @@
          "characterLink":"/character/ch0171388/",
          "actorName":"Jason Momoa",
          "actorLink":"/name/nm0597388/"
-      },
-      {
-         "characterName":"Lord Varys",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDk2MjczM15BMl5BanBnXkFtZTcwODk0ODg4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDk2MjczM15BMl5BanBnXkFtZTcwODk0ODg4OQ@@._V1_.jpg",
-         "characterLink":"/character/ch0249636/",
-         "actorName":"Conleth Hill",
-         "actorLink":"/name/nm0384152/"
       },
       {
          "characterName":"Missandei",
@@ -173,23 +126,6 @@
          "actorLink":"/name/nm0050959/"
       },
       {
-         "characterName":"Ramsay Snow",
-         "houseName":"Bolton",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5Nzk3NTU5N15BMl5BanBnXkFtZTgwNzczMjk5NTE@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5Nzk3NTU5N15BMl5BanBnXkFtZTgwNzczMjk5NTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
-         "characterLink":"/character/ch0321004/",
-         "actorName":"Iwan Rheon"
-      },
-      {
-         "characterName":"Sandor Clegane",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjEwNDQ1MF5BMl5BanBnXkFtZTcwMzAxODg4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjEwNDQ1MF5BMl5BanBnXkFtZTcwMzAxODg4OQ@@._V1_.jpg",
-         "characterLink":"/character/ch0162882/",
-         "actorName":"Rory McCann",
-         "actorLink":"/name/nm0564920/",
-         "nickname":"The Hound"
-      },
-      {
          "characterName":"Sansa Stark",
          "houseName":"Stark",
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjAwMjE2NDExNF5BMl5BanBnXkFtZTcwODAwODg4OQ@@._V1._SX100_SY140_.jpg",
@@ -197,15 +133,6 @@
          "characterLink":"/character/ch0158137/",
          "actorName":"Sophie Turner",
          "actorLink":"/name/nm3849842/"
-      },
-      {
-         "characterName":"Stannis Baratheon",
-         "houseName":"Baratheon",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzY0NzI0NF5BMl5BanBnXkFtZTcwNjA2NDk4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzY0NzI0NF5BMl5BanBnXkFtZTcwNjA2NDk4OQ@@._V1_.jpg",
-         "characterLink":"/character/ch0250897/",
-         "actorName":"Stephen Dillane",
-         "actorLink":"/name/nm0226820/"
       },
       {
          "characterName":"The Night King",
