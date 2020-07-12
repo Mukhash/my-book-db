@@ -1,36 +1,6 @@
 {
    "characters":[
       {
-         "characterName":"Aegon Targaryen",
-         "houseName":"Targaryen",
-         "royal":true,
-         "parents":[
-            "Elia Martell",
-            "Rhaegar Targaryen"
-         ],
-         "siblings":[
-            "Rhaenys Targaryen",
-            "Jon Snow"
-         ],
-         "killedBy":[
-            "Gregor Clegane"
-         ]
-      },
-      {
-         "characterName":"Aeron Greyjoy",
-         "houseName":"Greyjoy",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MDg0ZDAtN2Y2ZC00MzU1LTgyYjQtNTBjYjEzODczZDVhXkEyXkFqcGdeQXVyNTg0Nzg4NTE@._V1_.jpg",
-         "characterLink":"/character/ch0540081/",
-         "actorName":"Michael Feast",
-         "actorLink":"/name/nm0269923/",
-         "siblings":[
-            "Balon Greyjoy",
-            "Euron Greyjoy"
-         ],
-         "nickname":"Damphair"
-      },
-      {
          "characterName":"Arya Stark",
          "houseName":"Stark",
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5MTYwNDc0OF5BMl5BanBnXkFtZTcwOTg2NDg1Nw@@._V1._SX100_SY140_.jpg",
@@ -171,41 +141,6 @@
          ]
       },
       {
-         "characterName":"Daario Naharis",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BY2ExMDJmNzMtMDVmZi00MDNlLWI1NzYtOTkxOTdlOWU4YzE4XkEyXkFqcGdeQXVyNTcxMzMwNTA@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BY2ExMDJmNzMtMDVmZi00MDNlLWI1NzYtOTkxOTdlOWU4YzE4XkEyXkFqcGdeQXVyNTcxMzMwNTA@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
-         "characterLink":"/character/ch0335040/",
-         "actors":[
-            {
-               "actorName":"Ed Skrein",
-               "actorLink":"/name/nm4534098/",
-               "seasonsActive":[
-                  3
-               ]
-            },
-            {
-               "actorName":"Michiel Huisman",
-               "actorLink":"/name/nm0401264/",
-               "seasonsActive":[
-                  4,
-                  5,
-                  6
-               ]
-            }
-         ],
-         "killed":[
-            "Mero",
-            "Prendahl na Ghezn",
-            "Oznak zo Pahl",
-            "Mossador",
-            "Iggo",
-            "Akho"
-         ],
-         "serves":[
-            "Daenerys Targaryen"
-         ]
-      },
-      {
          "characterName":"Daenerys Targaryen",
          "houseName":"Targaryen",
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzIxMTQwMF5BMl5BanBnXkFtZTcwMzY2NDg1Nw@@._V1._SX100_SY140_.jpg",
@@ -326,28 +261,6 @@
          ]
       },
       {
-         "characterName":"Euron Greyjoy",
-         "houseName":"Greyjoy",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTJhMjMtMmY4Yy00NTU2LTliZWUtNjM4YzAxY2M3ZDBkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-         "characterLink":"/character/ch0518715/",
-         "actorName":"Pilou Asbæk",
-         "actorLink":"/name/nm1561982/",
-         "killed":[
-            "Balon Greyjoy",
-            "Obara Sand",
-            "Nymeria Sand",
-            "Rhaegal"
-         ],
-         "siblings":[
-            "Balon Greyjoy",
-            "Aeron Greyjoy"
-         ],
-         "killedBy":[
-            "Jaime Lannister"
-         ]
-      },
-      {
          "characterName":"Faceless Man",
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4ODYxODI0MF5BMl5BanBnXkFtZTgwMDk4NDY0NTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
          "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4ODYxODI0MF5BMl5BanBnXkFtZTgwMDk4NDY0NTE@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
@@ -422,14 +335,6 @@
          "serves":[
             "Daenerys Targaryen"
          ]
-      },
-      {
-         "characterName":"High Priestess",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MzQxOTMwM15BMl5BanBnXkFtZTgwMzkwMzg4ODE@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MzQxOTMwM15BMl5BanBnXkFtZTgwMzkwMzg4ODE@._V1_SY1000_CR0,0,1502,1000_AL_.jpg",
-         "characterLink":"/character/ch0539898/",
-         "actorName":"Souad Faress",
-         "actorLink":"/name/nm0267256/"
       },
       {
          "characterName":"Hodor",
@@ -593,35 +498,6 @@
          ]
       },
       {
-         "characterName":"Mance Rayder",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzQyNjAwNF5BMl5BanBnXkFtZTcwODcyMTEwOQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzQyNjAwNF5BMl5BanBnXkFtZTcwODcyMTEwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
-         "characterLink":"/character/ch0335039/",
-         "actorName":"Ciarán Hinds",
-         "actorLink":"/name/nm0001354/",
-         "killedBy":[
-            "Melisandre",
-            "Jon Snow"
-         ]
-      },
-      {
-         "characterName":"Melisandre",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MjI5NjQ2OV5BMl5BanBnXkFtZTcwODI4NDk4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MjI5NjQ2OV5BMl5BanBnXkFtZTcwODI4NDk4OQ@@._V1_.jpg",
-         "characterLink":"/character/ch0287523/",
-         "actorName":"Carice van Houten",
-         "actorLink":"/name/nm0396924/",
-         "killed":[
-            "Renly Baratheon",
-            "Axell Florent",
-            "Mance Rayder",
-            "Shireen Baratheon"
-         ],
-         "killedBy":[
-            "Old Age"
-         ]
-      },
-      {
          "characterName":"Missandei",
          "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTE5OTI0OTA0OV5BMl5BanBnXkFtZTcwODczOTAzOQ@@._V1._SX100_SY140_.jpg",
          "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTE5OTI0OTA0OV5BMl5BanBnXkFtZTcwODczOTAzOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
@@ -686,40 +562,6 @@
          ],
          "parents":[
             "Roose Bolton"
-         ]
-      },
-      {
-         "characterName":"Robb Stark",
-         "houseName":"Stark",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2NDE1NzczNF5BMl5BanBnXkFtZTcwNjcwODg4OQ@@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2NDE1NzczNF5BMl5BanBnXkFtZTcwNjcwODg4OQ@@._V1_SY1000_CR0,0,845,1000_AL_.jpg",
-         "characterLink":"/character/ch0158596/",
-         "actorName":"Richard Madden",
-         "actorLink":"/name/nm0534635/",
-         "royal":true,
-         "siblings":[
-            "Sansa Stark",
-            "Arya Stark",
-            "Bran Stark",
-            "Rickon Stark"
-         ],
-         "killed":[
-            "Wallen",
-            "Rickard Karstark"
-         ],
-         "marriedEngaged":[
-            "Roslin Frey",
-            "Talisa Maegyr"
-         ],
-         "killedBy":[
-            "Roose Bolton"
-         ],
-         "parents":[
-            "Eddard Stark",
-            "Catelyn Stark"
-         ],
-         "guardedBy":[
-            "Grey Wind"
          ]
       },
       {
@@ -890,28 +732,6 @@
          ],
          "killedBy":[
             "Tyrion Lannister"
-         ]
-      },
-      {
-         "characterName":"Walder Frey",
-         "houseName":"Frey",
-         "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BYzU0YzZjMTktZDA2Ni00YTRhLWFkZTgtOTQ4Yjg2MmQ2OGUzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1._SX100_SY140_.jpg",
-         "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BYzU0YzZjMTktZDA2Ni00YTRhLWFkZTgtOTQ4Yjg2MmQ2OGUzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-         "characterLink":"/character/ch0305328/",
-         "actorName":"David Bradley",
-         "actorLink":"/name/nm0103195/",
-         "killedBy":[
-            "Arya Stark"
-         ],
-         "parentOf":[
-            "Black Walder Rivers",
-            "Lothar Frey",
-            "Roslin Frey",
-            "Ryger Rivers"
-         ],
-         "marriedEngaged":[
-            "Joyeuse Erenford",
-            "Kitty Frey"
          ]
       }
    ]
